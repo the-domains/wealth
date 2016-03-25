@@ -1,0 +1,28 @@
+name: Wealth
+favicon: null
+layout_spectrum: 0.1568889762274921
+typography_spectrum: 0.7399880718439817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.791963396128267
+  lightness: 0.2724874522536993
+  saturation: 0.9636996346525848
+  rhythmicContrast: 0.5740709390956908
+purpose: []
